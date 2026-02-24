@@ -16,6 +16,11 @@ The result is rendered as a **cinematic 3D scroll-driven tunnel**: components fl
 
 It's not a chatbot. It's not a dashboard builder. It's an interface that *generates interfaces*.
 
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/e46282fe-cd30-432c-a3c2-ad15ecc0b8ff" />
+
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/6803fc5b-a588-486e-9f02-9d27c9d277fb" />
+
+
 ---
 
 ## The Agentic AI Core
@@ -163,5 +168,3 @@ FRONTEND_URL=http://localhost:3001
 *Give Claude a blank canvas and ask it to build the UI — then render exactly what it designs, in 3D, forever.*
 
 ---
-
-Built with Claude. Submitted to the AI Tinkerers Interfaces Hackathon, NYC 2025.
