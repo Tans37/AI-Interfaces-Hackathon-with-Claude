@@ -16,7 +16,8 @@ The result is rendered as a **cinematic 3D scroll-driven tunnel**: components fl
 
 It's not a chatbot. It's not a dashboard builder. It's an interface that *generates interfaces*.
 
-<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/e46282fe-cd30-432c-a3c2-ad15ecc0b8ff" />
+<img width="1913" height="965" alt="image" src="https://github.com/user-attachments/assets/5578c195-b4ae-44ce-bcac-78e1cd6bb3a4" />
+
 
 <img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/6803fc5b-a588-486e-9f02-9d27c9d277fb" />
 
